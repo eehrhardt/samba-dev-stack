@@ -18,5 +18,7 @@ Big shoutout to Helge Klein =)
 docker compose build
 docker compose up -d
 
+TODO: scripting the ad provisioning and joining 
+
 ```
 
