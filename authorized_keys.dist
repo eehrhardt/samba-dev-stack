@@ -1,0 +1,5 @@
+# insert your public keys for keybased ssh access
+# this file is bind mounted by docker compose
+# hosts:
+# - dc1
+# - fs1

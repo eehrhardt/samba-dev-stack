@@ -1,0 +1,8 @@
+# root
+.env
+authorized_keys
+
+# samba
+samba/config*
+samba/data*
+samba/shares*
